@@ -19,4 +19,4 @@ The Document "Pandas_HW_Sara_Dcoumentation" contains all the below details about
 
 The HTML Data Frame Viewable Link is present inside the HeroesOfPymoli Folder.
 
-Note to TA : For my practice, am doing the second challenge (PyCity Of Schools) as well. Kindly ignore the PyCityOfSchools Folder activity for your evaluation.
+<b> Note to TA : For my practice, am doing the second challenge (PyCity Of Schools) as well. Kindly ignore the PyCityOfSchools Folder activity for your evaluation.</b>
