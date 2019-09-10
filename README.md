@@ -1,10 +1,11 @@
-##Pandas-Challenge
+# Pandas-Challenge
 
 This is the Pandas Assignment based on two Challenges.
 
-Heroes of Pymoli PyCity of Schools
+## 1) Heroes of Pymoli 
+## 2) PyCity of Schools
 
-I have Choosen Heroes Of Pymoli for my Pandas Assigment.
+I have Choosen <b> Heroes Of Pymoli </b> for my Pandas Assigment.
 
 The Document "Pandas_HW_Sara_Dcoumentation" contains all the below details about the Assignment.
 
