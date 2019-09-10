@@ -2,8 +2,8 @@
 
 This is the Pandas Assignment based on two Challenges.
 
-## 1) Heroes of Pymoli 
-## 2) PyCity of Schools
+ 1) Heroes of Pymoli 
+ 2) PyCity of Schools
 
 I have Choosen <b> Heroes Of Pymoli </b> for my Pandas Assigment.
 
